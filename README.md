@@ -1,1 +1,1 @@
-# ComputerSupport
+# ComputerSupport Hugo Turček
